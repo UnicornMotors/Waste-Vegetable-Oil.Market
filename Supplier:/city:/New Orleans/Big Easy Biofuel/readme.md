@@ -14,4 +14,4 @@ quote:
 >Our shipping method is FOB shipping point. After receiving payment in full for a desired quantity and specification of waste vegetable oil (WVO), the buyer will have the option to pick up product on site at our facility or pay for product to be transported. We also work closely with several tanker transportation companies and can assist customers in the transportation of product.
 
 ## ark: They've been around since 2018
-https://web.archive.org/web/20250000000000*/https://bigeasybiofuel.com
+https://web.archive.org/web/*/https://bigeasybiofuel.com
