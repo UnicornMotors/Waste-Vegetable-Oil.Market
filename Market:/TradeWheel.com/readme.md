@@ -1,4 +1,5 @@
 # Home: https://www.tradewheel.com/
+scope: Global
 
 ## Listing:
 https://www.tradewheel.com/products-search/used-cooking-oil/
