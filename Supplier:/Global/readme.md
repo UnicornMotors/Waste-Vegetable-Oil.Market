@@ -1,6 +1,7 @@
 # Origin:
 ## USA
 - https://www.tradewheel.com/p/waste-vegetable-oilucoused-cooking-oil-for-1482623/
+- https://www.tradewheel.com/p/used-cooking-oil-for-biodiesel-150220/
 
 ## South Africa
 - https://www.tradewheel.com/p/used-cooking-oil-biodiesel-ucouvowvo-factory-1509319/
